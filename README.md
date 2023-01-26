@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!!!)](https://git.io/typing-svg)
+
+ </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -8,7 +12,7 @@
 
 - Formada em Sistemas de Informação.
 - Apaixonada pela área de dados.
-- Atualmente estudando sobre automação, aprimorando os conhecimentos na linguagem python e no framework django.
+- Atualmente estudando sobre automação, aprimorando os conhecimentos na linguagem python e no framework django e em análise de dados.
 
 <br><br>
 
@@ -19,6 +23,12 @@
        alt="snake" /></a>
 </div>
 
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PatriciaDaros&theme=nord&hide_border=falso)](https://git.io/streak-stats)
+
+</div>
+  
 <!--
 **PatriciaDaros/PatriciaDaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

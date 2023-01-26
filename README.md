@@ -11,7 +11,9 @@
 <br>
 
 ⚡ Formada em Sistemas de Informação.
+
 ⚡ Apaixonada pela área de dados.
+
 ⚡ Atualmente estudando sobre automação, aprimorando os conhecimentos na linguagem python, no framework django e em análise de dados.
 
 <br><br>
